@@ -1,0 +1,208 @@
+{
+  "fruits": "Frutas",
+
+  "lemon": {
+    "name": "Limón",
+    "type": "Cítrico",
+    "origin": "Asia",
+    "benefits": "Vitamina C y antioxidantes",
+    "season": "todo el año",
+    "use": "Jugos, ensaladas"
+  },
+
+  "orange": {
+    "name": "Naranja",
+    "type": "Cítrico",
+    "origin": "China",
+    "benefits": "Vitamina C y antioxidantes",
+    "season": "Noviembre → Mayo",
+    "use": "Jugos, ensaladas"
+  },
+  
+  "tangarine": {
+      "name": "Mandarina",
+      "type": "Cítrico",
+      "origin": "Asia",
+      "benefits": "Vitamina C y antioxidantes",
+      "season": "Octubre → Febrero",
+      "use": "Ensaladas, batidos"
+    },
+  "grapefruit": {
+      "name": "Pomelo",
+      "type": "Cítrico",
+      "origin": "Isla de Barbados",
+      "benefits": "Vitamina C y antioxidantes",
+      "season": "Noviembre → Abril",
+      "use": "Jugos, ensaladas"
+    },
+
+    
+  "pineapple": {
+    "name": "Piña",
+    "type": "Tropical",
+    "origin": "Sud América",
+    "benefits": "Vitamina C y propiedades antiinflamatorias",
+    "season": "Marzo → Julio",
+    "use": "Zumos, yogures"
+    
+  },
+
+  "mango": {
+    "name": "Mango",
+    "type": "Tropical",
+    "origin": "Sudeste Asiático",
+    "benefits": "vitamina C y A, fortalece el sistema inmunológico",
+    "season": "Agosto → Noviembre",
+    "use": "ensaladas, mermeladas"
+    
+  },
+
+  "papaya": {
+    "name": "Papaya",
+    "type": "Tropical",
+    "origin": "México y norte de Sud América",
+    "benefits": "rica en vitamina A, C y E, fortalece el sistema inmunológico ",
+    "season": "todo el año",
+    "use": "ensaladas, batidos"
+    
+  },
+
+  "banana": {
+    "name": "Plátano",
+    "type": "Tropical",
+    "origin": "Sudeste Asiático",
+    "benefits": "Rico en potasio, fibra, vitamina B6 y C ",
+    "season": "todo el año",
+    "use": "zumos, batidos, yogures"
+    
+  },
+
+  "strawberry": {
+  "name": "Fresa",
+  "type": "Fruta del bosque",
+  "origin": "Europa y América",
+  "benefits": "Antioxidantes, baja en calorías, buena para la salud cardiovascular",
+  "season": "Febrero → Junio",
+  "use": "Batidos y smoothies, mermeladas"
+},
+
+"raspberry": {
+  "name": "Frambuesa",
+  "type": "Fruta del bosque",
+  "origin": "Europa y norte de Asia",
+  "benefits": "Rica en fibra, antioxidantes, favorece la digestión, bajo índice glucémico",
+  "season": "Mayo → Septiembre",
+  "use": "Yogures y desayunos, salsas para carnes, mermeladas"
+},
+
+"blueberry": {
+  "name": "Arándano",
+  "type": "Fruta del bosque",
+  "origin": "América del Norte",
+  "benefits": "Antioxidantes, vitamina C y K, beneficioso para la memoria",
+  "season": "Junio → Agosto",
+  "use": "Smoothies y bowls, muffins y pancakes"
+},
+
+"blackberry": {
+  "name": "Mora",
+  "type": "Fruta del bosque",
+  "origin": "Europa, Asia y América",
+  "benefits": "Rica en vitamina C y K, antioxidantes, buena para la salud ósea, aporta fibra",
+  "season": "Julio → Septiembre",
+  "use": "Mermeladas caseras, tartas y postres, licores, salsas para carnes"
+},
+
+ "peach": {
+  "name": "Melocotón",
+  "type": "Frutas de hueso",
+  "origin": "China",
+  "benefits": "Rico en vitamina C y antioxidantes, favorece la digestión, hidratante y bajo en grasa",
+  "season": "Mayo → Septiembre",
+  "use": "Mermeladas, ensaladas, pasteles, helado"
+},
+
+"cherry": {
+  "name": "Cereza",
+  "type": "Frutas de hueso",
+  "origin": "Región del Mar Negro y Asia Occidental",
+  "benefits": "Alto en antioxidantes, antiinflamatorio",
+  "season": "Abril → Julio",
+  "use": "Repostería, mermeladas y licores"
+},
+
+"plum": {
+  "name": "Ciruela",
+  "type": "Frutas de hueso",
+  "origin": "Europa y Asia",
+  "benefits": "Rica en fibra, fuente de vitamina K, antioxidante",
+  "season": "Junio → Septiembre",
+  "use": "Compotas, salsas, repostería"
+},
+
+"apricot": {
+  "name": "Albaricoque",
+  "type": "Frutas de hueso",
+  "origin": "Asia Central",
+  "benefits": "Rico en vitamina A, alto en fibra, antioxidante",
+  "season": "Mayo → Julio",
+  "use": "Mermeladas, platos dulces y salados"
+},
+
+"apple": {
+  "name": "Manzana",
+  "type": "Frutas de pepita",
+  "origin": "Asia Central",
+  "benefits": "Rica en fibra, antioxidante",
+  "season": "todo el año",
+  "use": "Tartas, compotas, mermeladas, ensaladas o asados"
+},
+
+"pear": {
+  "name": "Pera",
+  "type": "Frutas de pepita",
+  "origin": "Europa y Asia Occidental",
+  "benefits": "Muy fácil de digerir y suave, hidratante, buena fuente de fibra",
+  "season": "verano → otoño",
+  "use": "Postres, ensaladas, purés o compotas"
+},
+
+"grenade": {
+  "name": "Granada",
+  "type": "Frutas de pepita",
+  "origin": "Región de Oriente Medio",
+  "benefits": "Antioxidante, salud cardiovascular, reduce la inflamación",
+  "season": "septiembre → noviembre",
+  "use": "Zumos, ensaladas, salsas"
+},
+
+"kiwi": {
+  "name": "Kiwi",
+  "type": "Frutas de pepita",
+  "origin": "China",
+  "benefits": "Vitamina C, fortalece el sistema inmunológico, favorece la digestión",
+  "season": "otoño → invierno",
+  "use": "Batidos y smoothies, postres"
+},
+
+  "explore": "Explorar frutas",
+  "exit": "Salir",
+  "Fruitiverse": "Fruitiverse",
+  "origin": "Origen",
+  "type": "Tipo",
+  "benefits": "Beneficios",
+  "season": "Temporada",
+  "calories": "Calorías",
+  "use": "Uso",
+  
+  "app_title": "Frutas Info",
+  "citrus": "Cítricos",
+  "tropical": "Tropicales",
+  "berries": "Frutas del Bosque",
+  "stone": "Frutas Hueso",
+  "pome": "Frutas Pepita"
+
+
+
+
+}

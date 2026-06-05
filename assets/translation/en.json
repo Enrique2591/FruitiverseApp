@@ -1,0 +1,215 @@
+{
+  "fruits": "Fruits",
+
+  "lemon": {
+    "name": "Lemon",
+    "type": "Citrus",
+    "origin": "Asia",
+    "benefits": "Vitamin C and antioxidants",
+    "season": "all year",
+    "use": "Juices, salads"
+  },
+
+  "orange": {
+    "name": "Orange",
+    "type": "Citrus",
+    "origin": "China",
+    "benefits": "Vitamin C and antioxidants",
+    "season": "November → May",
+    "use": "Juices, salads"
+  },
+
+  "tangarine": {
+    "name": "Tangerine",
+    "type": "Citrus",
+    "origin": "Asia",
+    "benefits": "Vitamin C and antioxidants",
+    "season": "October → February",
+    "use": "Salads, smoothies"
+  },
+
+  "grapefruit": {
+    "name": "Grapefruit",
+    "type": "Citrus",
+    "origin": "Barbados island",
+    "benefits": "Vitamin C and antioxidants",
+    "season": "November → April",
+    "use": "Juices, salads"
+  },
+
+  "pineapple": {
+    "name": "Pineapple",
+    "type": "Tropical",
+    "origin": "South America",
+    "benefits": "Vitamin C and anti-inflammatory properties",
+    "season": "March → July",
+    "use": "Juices, yogurts"
+    
+  },
+
+  "mango": {
+    "name": "Mango",
+    "type": "Tropical",
+    "origin": "Southeast Asia",
+    "benefits": "vitamin C and A, strengthens the immune system",
+    "season": "August → November",
+    "use": "salads, jams"
+    
+  },
+
+  "papaya": {
+    "name": "Papaya",
+    "type": "Tropical",
+    "origin": "Mexico and northern South America",
+    "benefits": "rich in vitamins A, C and E, strengthens the immune system ",
+    "season": "all year",
+    "use": "salads, smoothies"
+    
+  },
+
+  "banana": {
+    "name": "Banana",
+    "type": "Tropical",
+    "origin": "Southeast Asia",
+    "benefits": "Rich in potassium, fiber, vitamin B6 and C ",
+    "season": "all year",
+    "use": "juice, smoothies, yogurts"
+    
+  },
+
+  "strawberry": {
+    "name": "Strawberry",
+    "type": "Forest Fruit",
+    "origin": "Europe and America",
+    "benefits": "Antioxidants, Low in calories, Good for cardiovascular health ",
+    "season": "February → June",
+    "use": "Shakes and smoothies, jams"
+    
+  },
+
+  "raspberry": {
+    "name": "Raspberry",
+    "type": "Forest Fruit",
+    "origin": "Europe and Northern asia",
+    "benefits": "rich in fiber, Antioxidants, Supports digestion, Low glycemic index ",
+    "season": "May → September",
+    "use": "Yogurts and breakfasts, Sauces for meats, jams"
+    
+  },
+
+  "blueberry": {
+    "name": "Blueberry",
+    "type": "Forest Fruit",
+    "origin": "North America",
+    "benefits": "antioxidants, Vitamin C and K, Beneficial for memory  ",
+    "season": "June → August",
+    "use": "moothies y bowls, Muffins and pancakes"
+    
+  },
+
+  
+  "blackberry": {
+    "name": "Blackberry",
+    "type": "Forest Fruit",
+    "origin": "Europe, Asia and America",
+    "benefits": "Rich in vitamin C and K, Antioxidants, Good for bone health, Provides fiber",
+    "season": "July → September",
+    "use": "Homemade jams, Cakes and desserts, liquors, Sauces for meats"
+    
+  },
+
+  "peach": {
+    "name": "Peach",
+    "type": "Stone Fruits",
+    "origin": "China",
+    "benefits": "Rich in vitamin C and antioxidants, Promotes digestion, Moisturizing and low in fat",
+    "season": "May → September",
+    "use": "Jams, salads, cakes, ice cream"
+  },
+
+  "cherry": {
+    "name": "Cherry",
+    "type": "Stone Fruits",
+    "origin": "Black Sea and Western Asia Region",
+    "benefits": "High in antioxidants, anti-inflammatory",
+    "season": "April → July",
+    "use": "Pastries, Jams and Liqueurs"
+  },
+
+  "plum": {
+    "name": "Plum",
+    "type": "Stone Fruits",
+    "origin": "Europa y Asia",
+    "benefits": "Rich in fiber, source of vitamin K, antioxidant",
+    "season": "June → September",
+    "use": "Compotes, Sauces, Pastries"
+  },
+
+  "apricot": {
+    "name": "Apricot",
+    "type": "Stone Fruits",
+    "origin": "Central Asia",
+    "benefits": "Rich in vitamin A, High in fiber, Antioxidant",
+    "season": "May → July",
+    "use": "Jams, Sweet and Savory Dishes"
+  },
+
+  "apple": {
+    "name": "Apple",
+    "type": "Pome Fruits",
+    "origin": "Central Asia",
+    "benefits": "High in fiber, Antioxidant",
+    "season": "all year",
+    "use": "Cakes, compotes, jams, salads or roasts"
+  },
+
+  "pear": {
+    "name": "Pear",
+    "type": "Pome Fruits",
+    "origin": "Europe and Western Asia",
+    "benefits": "Very easy to digest and gentle, hydrating, a good source of fiber",
+    "season": "summer →  autumn",
+    "use": "Desserts, salads, purees or compotes"
+  },
+
+  "grenade": {
+    "name": "Grenade",
+    "type": "Pome Fruits",
+    "origin": "Middle East Region",
+    "benefits": "antioxidant, cardiovascular health, reduces inflammation",
+    "season": "September → November",
+    "use": "Juices, salads, sauces"
+  },
+
+  "kiwi": {
+    "name": "Kiwi",
+    "type": "Pome Fruits",
+    "origin": "China",
+    "benefits": "Vitamin C, Strengthens the immune system, Promotes digestion",
+    "season": "Autumn → winter",
+    "use": "Shakes and smoothies, Desserts,"
+  },
+
+
+  "explore": "Explore fruits",
+  "exit": "Exit",
+  "Fruitiverse": "Fruitiverse",
+  "origin": "Origin",
+  "type": "Type",
+  "benefits": "Benefits",
+  "season": "Season",
+  "calories": "Calories",
+  "use": "Use",
+
+  "app_title": "Fruits Info",
+  "citrus": "Citrus",
+  "tropical": "Tropical",
+  "berries": "Forest Fruits",
+  "stone": "Stone Fruits",
+  "pome": "Pome Fruits"
+
+
+
+
+}
+
