@@ -111,18 +111,9 @@ Idiomes disponibles:
 - 🇪🇸 Espanyol
 - 🇬🇧 Anglés
 
----
 
 
-##  Autor
 
-Projecte desenvolupat per:
-
-**[Enrique Sorrenti Costa]**
-
-CFGS Desenvolupament d'Aplicacions Multiplataforma (DAM)
-
-Curs 2025-2026
 
 ---
 
